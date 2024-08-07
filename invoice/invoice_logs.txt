@@ -1,0 +1,81 @@
+
+16/06/2022 23:34:21: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDIyNDk3fQ.OxpGC3hFNSMMfMoX3AaePmdGexiIQYI355jcbYblGWk"}}
+
+16/06/2022 23:34:21: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+16/06/2022 23:34:21: ADD INVOICE : {"success":false,"msg":"Le NIF du client n'est pas connu par l'OBR. Veuillez fournir un NIF valide","result":[]}
+
+16/06/2022 23:34:21: MSG: <font color="red"> OBR: Invoice has not been added (Le NIF du client n'est pas connu par l'OBR. Veuillez fournir un NIF valide) - signature 4000061905/ws400006190500013/20220616233421/19320 </font> <br> - signature: 4000061905/ws400006190500013/20220616233421/19320
+ =========== 
+
+16/06/2022 23:42:45: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDIzMDAxfQ.oMzcTEiEWEHb0qKAIQriu98T1KnBr_K34IRoN9Rr48M"}}
+
+16/06/2022 23:42:45: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+16/06/2022 23:42:45: ADD INVOICE : {"success":true,"msg":"La facture a \u00e9t\u00e9 ajout\u00e9e avec succ\u00e8s!","result":{"invoice_number":"19320"}}
+
+16/06/2022 23:42:45: MSG: <font color="green"> OBR: Invoice has been added (La facture a été ajoutée avec succès! : 19320) - signature 4000061905/ws400006190500013/20220616234245/19320 </font> <br> - signature: 4000061905/ws400006190500013/20220616234245/19320
+ =========== 
+
+16/06/2022 23:45:08: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDIzMTQ0fQ.CIxmdWpYX4QQRbQhFo72JRBNt3RIgVB0Ob11eNGXOUs"}}
+
+16/06/2022 23:45:08: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+16/06/2022 23:45:08: ADD INVOICE : {"success":true,"msg":"La facture a \u00e9t\u00e9 ajout\u00e9e avec succ\u00e8s!","result":{"invoice_number":"19310"}}
+
+16/06/2022 23:45:08: MSG: <font color="green"> OBR: Invoice has been added (La facture a été ajoutée avec succès! : 19310) - signature 4000061905/ws400006190500013/20220616234508/19310 </font> <br> - signature: 4000061905/ws400006190500013/20220616234508/19310
+ =========== 
+
+17/06/2022 05:33:14: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDQ0MDI5fQ.dBi6MBv619DMR2FdIjK-rdn0_G4rjIcSKgEWfRRZebw"}}
+
+17/06/2022 05:33:14: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+17/06/2022 05:33:14: ADD INVOICE : {"success":false,"msg":"Une facture avec le m\u00eame num\u00e9ro existe d\u00e9j\u00e0.","result":[]}
+
+17/06/2022 05:33:14: MSG: <font color="red"> OBR: Invoice has not been added (Une facture avec le même numéro existe déjà.) - signature 4000061905/ws400006190500013/20220617053314/19310 </font> <br> - signature: 4000061905/ws400006190500013/20220617053314/19310
+ =========== 
+
+17/06/2022 07:23:51: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDUwNjY2fQ.aoh79iF8-1aMCbWWSyAWH-4vOHdQftBmA9hZYdMner0"}}
+
+17/06/2022 07:23:51: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+17/06/2022 07:23:51: ADD INVOICE : {"success":false,"msg":"Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat","result":[]}
+
+17/06/2022 07:23:51: MSG: <font color="red"> OBR: Invoice has not been added (Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat) - signature 4000061905/ws400006190500013/20220617072351/7365 </font> <br> - signature: 4000061905/ws400006190500013/20220617072351/7365
+ =========== 
+
+17/06/2022 07:26:48: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDUwODQzfQ.PS0AUUwH-bNoC3n2n8eahR1akdrZRYcrjK6Ol-UfCTM"}}
+
+17/06/2022 07:26:48: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+17/06/2022 07:26:48: ADD INVOICE : {"success":true,"msg":"La facture a \u00e9t\u00e9 ajout\u00e9e avec succ\u00e8s!","result":{"invoice_number":"7366"}}
+
+17/06/2022 07:26:48: MSG: <font color="green"> OBR: Invoice has been added (La facture a été ajoutée avec succès! : 7366) - signature 4000061905/ws400006190500013/20220617072648/7366 </font> <br> - signature: 4000061905/ws400006190500013/20220617072648/7366
+ =========== 
+
+17/06/2022 07:28:26: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDUwOTQyfQ.DP5QBruZeFAcHndInStZvPqUZB70Cq0GJQzy9hRjyiQ"}}
+
+17/06/2022 07:28:26: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+17/06/2022 07:28:26: ADD INVOICE : {"success":false,"msg":"Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat","result":[]}
+
+17/06/2022 07:28:26: MSG: <font color="red"> OBR: Invoice has not been added (Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat) - signature 4000061905/ws400006190500013/20220617072826/7365 </font> <br> - signature: 4000061905/ws400006190500013/20220617072826/7365
+ =========== 
+
+17/06/2022 07:32:23: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU1NDUxMTc4fQ.Gd2nFfaGzMilEwFO1JTmkbneOOpthy5tdL7M4udnnHQ"}}
+
+17/06/2022 07:32:23: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+17/06/2022 07:32:23: ADD INVOICE : {"success":false,"msg":"Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat","result":[]}
+
+17/06/2022 07:32:23: MSG: <font color="red"> OBR: Invoice has not been added (Veuillez fournir tous les champs obligatoires. Champ(s) manquant(s): item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat, item_designation, item_quantity, item_price, item_price_nvat) - signature 4000061905/ws400006190500013/20220617073223/7365 </font> <br> - signature: 4000061905/ws400006190500013/20220617073223/7365
+ =========== 
+
+27/06/2022 22:17:27: TOKEN : {"success":true,"msg":"Op\u00e9ration r\u00e9ussie","result":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndzNDAwMDA2MTkwNTAwMDEzIiwiZXhwIjoxNjU2MzY4MjY2fQ.8K80AAOCIRnz36fYtCkonCr4KuIvbYJ2fjCR71IbnKE"}}
+
+27/06/2022 22:17:27: Get Invoice : {"success":false,"msg":"Signature de la facture inconnu.","result":[]}
+
+27/06/2022 22:17:27: ADD INVOICE : {"success":true,"msg":"La facture a \u00e9t\u00e9 ajout\u00e9e avec succ\u00e8s!","result":{"invoice_number":"7365"}}
+
+27/06/2022 22:17:27: MSG: <font color="green"> OBR: Invoice has been added (La facture a été ajoutée avec succès! : 7365) - signature 4000061905/ws400006190500013/20220627221727/7365 </font> <br> - signature: 4000061905/ws400006190500013/20220627221727/7365
+ =========== 
